@@ -1,24 +1,18 @@
-# balloon
+## Balloon
 
-## Project setup
-```
-yarn install
-```
+一個專注於提供給人分享 Side Project 的平台
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Feature
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [ ] 登入
+- [ ] 登出
+- [ ] 個人資料維護
+- [ ] 發文記錄查詢
+- [ ] 收藏記錄查詢
+- [ ] 追蹤功能
+- [ ] 文章評論
+- [ ] 私人訊息
+- [ ] 搜尋引擎(搜尋文章)
+- [ ] 發布投稿/提案文章
+- [ ] 編輯投稿/提案文章
+- [ ] 顯示投稿/提案文章
